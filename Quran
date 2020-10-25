@@ -1,0 +1,26 @@
+var data = [ 
+	{
+	  "meaning": "Fatiha",
+	  "Asthma": "الفاتحة",
+	  "audio": "http://ia802609.us.archive.org/13/items/quraninindonesia/001AlFaatihah.mp3",
+	  "verse": 7,
+	  "explanation": "The letter <i> Al Faatihah </i> (Opening) that was revealed in Mecca and consists of 7 verses is a letter that ...",
+	  "name": "Al Fatihah",
+	  "number 1",
+	  "bow": "1",
+	  "type": "mekah",
+	  "sort": "5"
+	}, 
+	{
+	  "Meaning": "",
+	  "Asthma": "البقرة",
+	  "audio": "http://ia802609.us.archive.org/13/items/quraninindonesia/002AlBaqarah.mp3",
+	  "verse": 286,
+	  "explanation": "The letter <i> Al Baqarah </i> which 286 verses came down in Medina, most of which were revealed at the beginning ...",
+	  "name": "Al Baqarah",
+	  "number": "2",
+	  "bow": "40",
+	  "type": "madinah",
+	  "sort": "87"
+	}
+];
